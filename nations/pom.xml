@@ -16,8 +16,8 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		<sonar.projectKey>oddodan_srv-nations</sonar.projectKey>
-		<sonar.organization>oddodan</sonar.organization>
+		<sonar.projectKey>DanieleOddo_srv-nations</sonar.projectKey>
+		<sonar.organization>DanieleOddo</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>

@@ -3,8 +3,9 @@ package org.oddodan.nations.model.dto;
 import lombok.Data;
 
 @Data
-public enum NationsDto {
+public class NationsDto {
 
     private Integer nationsId;
 
+    private String codNations;
 }
