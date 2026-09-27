@@ -3,13 +3,13 @@ lockfileVersion: 5.4
 specifiers:
   husky: ^8.0.3
   lint-staged: ^13.1.0
-  prettier: ^2.8.3
+  prettier: ^3.0.0
   prettier-plugin-java: ^2.0.0
 
 devDependencies:
   husky: 8.0.3
   lint-staged: 13.1.0
-  prettier: 2.8.3
+  prettier: 3.9.9
   prettier-plugin-java: 2.0.0
 
 packages:
@@ -383,9 +383,9 @@ packages:
     hasBin: true
     dev: true
 
-  /prettier/2.8.3:
-    resolution: {integrity: sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==}
-    engines: {node: '>=10.13.0'}
+  /prettier/3.9.9:
+    resolution: {integrity: sha512-Z/CJHIkdujO/OtN7nXUii0Rf3VT5SRuhjBA82Xvu2XhBUgX3nhP67T0LHceBdQLex7OOFGTox+Q5Yg8Jk2Qivg==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: true
 
